@@ -1,7 +1,7 @@
 # Main outline
 - Introduction
 
-
+###Overlooking any pedantry, I have just one observation. Some of the phrasing is too simple, there is a visible absence of catchy brandable phrases. Right now, it reads more like a checklist than a helpful book. ###
 # Part I
 By end of part I, the reader should be motivated about attending a hackathon, identifying kinds of hackathons and knowing which hackathons they want to join. 
 
